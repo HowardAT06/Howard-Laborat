@@ -1,0 +1,28 @@
+D:\laba9\laba9\bin\Debug\net6.0\laba9.exe
+D:\laba9\laba9\bin\Debug\net6.0\laba9.deps.json
+D:\laba9\laba9\bin\Debug\net6.0\laba9.runtimeconfig.json
+D:\laba9\laba9\bin\Debug\net6.0\laba9.dll
+D:\laba9\laba9\bin\Debug\net6.0\laba9.pdb
+D:\laba9\laba9\obj\Debug\net6.0\laba9.GeneratedMSBuildEditorConfig.editorconfig
+D:\laba9\laba9\obj\Debug\net6.0\laba9.AssemblyInfoInputs.cache
+D:\laba9\laba9\obj\Debug\net6.0\laba9.AssemblyInfo.cs
+D:\laba9\laba9\obj\Debug\net6.0\laba9.csproj.CoreCompileInputs.cache
+D:\laba9\laba9\obj\Debug\net6.0\laba9.dll
+D:\laba9\laba9\obj\Debug\net6.0\refint\laba9.dll
+D:\laba9\laba9\obj\Debug\net6.0\laba9.pdb
+D:\laba9\laba9\obj\Debug\net6.0\laba9.genruntimeconfig.cache
+D:\laba9\laba9\obj\Debug\net6.0\ref\laba9.dll
+C:\Users\alexe\OneDrive\Рабочий стол\laba9\laba9\bin\Debug\net6.0\laba9.exe
+C:\Users\alexe\OneDrive\Рабочий стол\laba9\laba9\bin\Debug\net6.0\laba9.deps.json
+C:\Users\alexe\OneDrive\Рабочий стол\laba9\laba9\bin\Debug\net6.0\laba9.runtimeconfig.json
+C:\Users\alexe\OneDrive\Рабочий стол\laba9\laba9\bin\Debug\net6.0\laba9.dll
+C:\Users\alexe\OneDrive\Рабочий стол\laba9\laba9\bin\Debug\net6.0\laba9.pdb
+C:\Users\alexe\OneDrive\Рабочий стол\laba9\laba9\obj\Debug\net6.0\laba9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexe\OneDrive\Рабочий стол\laba9\laba9\obj\Debug\net6.0\laba9.AssemblyInfoInputs.cache
+C:\Users\alexe\OneDrive\Рабочий стол\laba9\laba9\obj\Debug\net6.0\laba9.AssemblyInfo.cs
+C:\Users\alexe\OneDrive\Рабочий стол\laba9\laba9\obj\Debug\net6.0\laba9.csproj.CoreCompileInputs.cache
+C:\Users\alexe\OneDrive\Рабочий стол\laba9\laba9\obj\Debug\net6.0\laba9.dll
+C:\Users\alexe\OneDrive\Рабочий стол\laba9\laba9\obj\Debug\net6.0\refint\laba9.dll
+C:\Users\alexe\OneDrive\Рабочий стол\laba9\laba9\obj\Debug\net6.0\laba9.pdb
+C:\Users\alexe\OneDrive\Рабочий стол\laba9\laba9\obj\Debug\net6.0\laba9.genruntimeconfig.cache
+C:\Users\alexe\OneDrive\Рабочий стол\laba9\laba9\obj\Debug\net6.0\ref\laba9.dll
